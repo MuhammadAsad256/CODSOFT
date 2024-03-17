@@ -80,9 +80,56 @@
 <li>Buttons and labels have contrasting foreground and background colors for better visibility.</li>
 <li>Tasks are displayed in a scrollable list for easy management.</li>
 </ul>
+
 <p><strong>Note:</strong></p>
 <ul>
 <li>Ensure Python with Tkinter is installed on your system to run the script.</li>
 <li>Enjoy organizing your tasks with this simple To-Do List application!</li>
 </ul>
 <p>&nbsp;</p>
+<div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-yjzeh-79elbk h-full">
+<div class="react-scroll-to-bottom--css-yjzeh-1n7m0yu">
+<div class="flex flex-col text-sm pb-9">
+<div class="w-full text-token-text-primary" data-testid="conversation-turn-13">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion">
+<div class="relative flex w-full flex-col agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" data-message-author-role="assistant" data-message-id="bfbdd50d-c6c4-497c-821e-91aaf7c755b7">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<h2>:- Codesoft Task_04 :Contact Management System</h2>
+<p>This Python script provides a simple yet efficient contact management system. Users can easily add, search, display, edit, and delete contacts through a user-friendly menu-driven interface.</p>
+<h3>Features:</h3>
+<ul>
+<li><strong>Add New Contact</strong>: Enter a new contact's name and mobile number to add them to the contact list.</li>
+<li><strong>Search Contact</strong>: Look up a contact by their name and view their associated mobile number.</li>
+<li><strong>Display Contact</strong>: View all contacts stored in the system.</li>
+<li><strong>Edit Contact</strong>: Modify the mobile number of an existing contact.</li>
+<li><strong>Delete Contact</strong>: Remove a contact from the list after confirmation.</li>
+<li><strong>Input Validation</strong>: Ensures that user inputs are properly handled and validated.</li>
+</ul>
+<h3>How to Use:</h3>
+<ol>
+<li>Clone the repository or download the script.</li>
+<li>Run the script in a Python environment.</li>
+<li>Follow the on-screen instructions to interact with the contact management system.</li>
+</ol>
+<p>This script is ideal for personal use or small-scale contact management needs. It provides a straightforward solution for organizing and managing contacts efficiently.</p>
+</div>
+</div>
+</div>
+<div class="mt-1 flex justify-start gap-3 empty:hidden">&nbsp;</div>
+<div class="pr-2 lg:pr-0">&nbsp;</div>
+</div>
+<div class="absolute">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]">&nbsp;</div>
