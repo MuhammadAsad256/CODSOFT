@@ -133,3 +133,41 @@
 </div>
 </div>
 <div class="w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]">&nbsp;</div>
+<h1>:- CodeSoft Task_05 :Rock_Paper_Scissors</h1>
+<p>This Python script implements a simple Rock-Paper-Scissors game where the player competes against the computer. Below is a detailed description of the game and its functionalities:</p>
+<h3>How to Play:</h3>
+<ol>
+<li>Run the script in a Python environment.</li>
+<li>Follow the prompts on the screen to enter your name and make your choices between Rock, Paper, and Scissors.</li>
+<li>After making your choice, the computer will randomly select its choice.</li>
+<li>The winner is determined based on the rules of Rock-Paper-Scissors:
+<ul>
+<li>Paper beats Rock</li>
+<li>Rock beats Scissors</li>
+<li>Scissors beat Paper</li>
+</ul>
+</li>
+<li>Scores will be updated accordingly, and the winner (player or computer) will be announced after each round.</li>
+<li>At the end of each round, you can choose to play again or exit the game.</li>
+</ol>
+<h3>Features:</h3>
+<ul>
+<li>Welcomes the player with a greeting message.</li>
+<li>Allows the player to input their name.</li>
+<li>Displays the rules of the game.</li>
+<li>Keeps track of scores for both the player and the computer, as well as ties.</li>
+<li>Provides options for the player to choose between Rock, Paper, and Scissors.</li>
+<li>Randomly generates the computer's choice.</li>
+<li>Determines the winner of each round based on the choices made.</li>
+<li>Offers the option to play again or exit the game.</li>
+</ul>
+<h3>Files Included:</h3>
+<ul>
+<li><code>Codesoft_Task_05.py</code>: Python script containing the game code.</li>
+</ul>
+<h3>Usage:</h3>
+<ol>
+<li>Ensure you have Python installed on your system.</li>
+<li>Run the script <code>Codesoft_Task_05.py</code>.</li>
+<li>Follow the on-screen instructions to play the game.</li>
+</ol>
